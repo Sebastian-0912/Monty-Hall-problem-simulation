@@ -14,7 +14,7 @@ To run the simulation program, follow these steps:
 
 1. Clone this repository to your local machine.
    ```bash
-   git clone https://github.com/your-username/monty-hall-simulation.git
+   git clone git@github.com:Sebastian-0912/Monty-Hall-problem-simulation.git
    ```
 2. Open the monty_hall_simulation.ipynb file in Jupyter Notebook or any compatible platform.
 3. Run the cells in the notebook to execute the simulation and view the results.
